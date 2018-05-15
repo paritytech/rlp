@@ -1,9 +1,9 @@
 [package]
 description = "Recursive-length prefix encoding, decoding, and compression"
-repository = "https://github.com/paritytech/parity"
+repository = "https://github.com/paritytech/rlp"
 license = "MIT/Apache-2.0"
 name = "rlp"
-version = "0.2.1"
+version = "0.2.2"
 authors = ["Parity Technologies <admin@parity.io>"]
 
 [dependencies]
